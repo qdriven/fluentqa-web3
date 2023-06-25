@@ -1,6 +1,8 @@
 docs-web3/
 web3-roads/
-tutorials/
 collections/
-slides/
 web3-demos/
+tutorials/
+scripts/
+fluent-hardhat-solidity-starter/
+web3-blockchain-simplify/
