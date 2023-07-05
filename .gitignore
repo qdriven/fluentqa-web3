@@ -4,5 +4,9 @@ collections/
 web3-demos/
 tutorials/
 scripts/
-fluent-hardhat-solidity-starter/
-web3-blockchain-simplify/
+fluent-hardhat-solidity-starter/*
+web3-blockchain-simplify/*
+go-algorand-sdk/
+mx-sdk-go/
+wallet-hd-chain/*
+go-algorand-sdk/*
